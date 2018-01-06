@@ -1,16 +1,63 @@
 \t (00:00:02) allegro 16.6-2015 S087 (v16-6-112GT) Windows 32
-\t (00:00:02)     Journal start - Sat Jan 06 21:53:12 2018
-\t (00:00:02)         Host=DESKTOP-1H319N6 User=jifeng Pid=107964 CPUs=4
+\t (00:00:02)     Journal start - Sun Jan 07 01:02:27 2018
+\t (00:00:02)         Host=DESKTOP-1H319N6 User=jifeng Pid=127428 CPUs=4
 \t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe F:\008.newproject\000.配件\002.ACDC开关电源-12V\MiniACDC-12V-V0101.brd
 \t (00:00:02) 
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Design opened: F:/008.newproject/000.配件/002.ACDC开关电源-12V/MiniACDC-12V-V0101.brd
-\i (00:00:05) trapsize 1483
-\i (00:00:05) trapsize 1456
-\i (00:00:05) trapsize 1487
-\i (00:00:05) trapsize 1500
-\i (00:00:06) trapsize 1323
-\i (00:00:06) trapsize 1323
-\i (00:00:06) etchedit 
-\i (00:03:07) exit 
-\t (00:03:07)     Journal end - Sat Jan 06 21:56:17 2018
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/008.newproject/000.配件/002.ACDC开关电源-12V/MiniACDC-12V-V0101.brd
+\i (00:00:04) trapsize 1483
+\i (00:00:04) trapsize 1456
+\i (00:00:04) trapsize 1487
+\i (00:00:04) trapsize 1500
+\i (00:00:04) trapsize 1323
+\i (00:00:04) trapsize 1323
+\i (00:00:05) etchedit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 27.4885 16.1176
+\i (00:00:07) trapsize 2647
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 36.2234 5.2651
+\i (00:00:08) trapsize 1323
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 36.2235 5.2651
+\i (00:00:08) trapsize 662
+\i (00:00:10) drag_start grid 34.9529 5.4637
+\i (00:00:10) slide 
+\t (00:00:10) Waiting for the destination pick.
+\i (00:00:13) drag_stop grid 33.2721 4.6696
+\t (00:00:13) No DRC errors detected.
+\i (00:00:13) etchedit 
+\i (00:00:14) drag_start grid 34.8735 5.4902
+\i (00:00:14) slide 
+\t (00:00:14) Waiting for the destination pick.
+\i (00:00:16) drag_stop grid 37.5337 6.9592
+\t (00:00:16) No DRC errors detected.
+\i (00:00:16) etchedit 
+\i (00:00:18) drag_start grid 35.8000 5.7416
+\i (00:00:18) slide 
+\t (00:00:18) Waiting for the destination pick.
+\i (00:00:19) drag_stop grid 33.7883 7.2239
+\t (00:00:19) No DRC errors detected.
+\i (00:00:19) etchedit 
+\i (00:00:21) drag_start grid 36.2235 5.8740
+\i (00:00:21) slide 
+\t (00:00:21) Waiting for the destination pick.
+\i (00:00:22) drag_stop grid 33.7618 6.8666
+\t (00:00:22) No DRC errors detected.
+\i (00:00:22) etchedit 
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 37.9440 6.0196
+\i (00:00:23) trapsize 1323
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 37.7058 6.3901
+\i (00:00:23) trapsize 2647
+\i (00:00:25) save 
+\i (00:00:28) fillin yes 
+\i (00:00:28) etchedit 
+\i (00:00:29) exit 
+\t (00:00:30)     Journal end - Sun Jan 07 01:02:54 2018
