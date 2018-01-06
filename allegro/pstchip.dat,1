@@ -1,0 +1,417 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Dec-22-2017 at 13:02:34}
+primitive 'CAP NP_RAD3_5D0_8_102';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='RAD3_5D0_8';
+    VALUE='102';
+  end_body;
+end_primitive;
+primitive 'CAP NP_RAD3_5D0_8_103';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='RAD3_5D0_8';
+    VALUE='103';
+  end_body;
+end_primitive;
+primitive 'CAP NP_RAD200_102/1000V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='RAD200';
+    VALUE='102/1000V';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR POL_ELE10B5D0_8_4.7UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='ele10B5d0_8';
+    VALUE='4.7uF/450V';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR POL_ELE8_5B3_5D0_7_47';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='ele8_5B3_5d0_7';
+    VALUE='470uF/25V';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR POL_ELE6_5B2_5D0_7_47';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='ele6_5B2_5d0_7';
+    VALUE='470uF/25V';
+  end_body;
+end_primitive;
+primitive 'CAP NP_RAD7D0_8_102/1000V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='RAD7D0_8';
+    VALUE='102/1000V';
+  end_body;
+end_primitive;
+primitive 'DIODE_DIO300_1N4007';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE';
+    JEDEC_TYPE='DIO300';
+    VALUE='1N4007';
+  end_body;
+end_primitive;
+primitive 'DIODE_0_DIODE-B3_85D0_7_1N4148';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE_0';
+    JEDEC_TYPE='DIODE-B3_85D0_7';
+    VALUE='1N4148';
+  end_body;
+end_primitive;
+primitive 'LED_1_LED-B3_5AK_RED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_1';
+    JEDEC_TYPE='LED-B3_5AK';
+    VALUE='RED';
+  end_body;
+end_primitive;
+primitive 'DIODE_0_DIODE-B3_85D0_7_SR210';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE_0';
+    JEDEC_TYPE='DIODE-B3_85D0_7';
+    VALUE='SR210';
+  end_body;
+end_primitive;
+primitive 'DIODE_0_DIODE-B7D0_7AK_1N4148';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE_0';
+    JEDEC_TYPE='DIODE-B7D0_7AK';
+    VALUE='1N4148';
+  end_body;
+end_primitive;
+primitive 'FUSE_AXIAL2_9UP_FUSE';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FUSE';
+    JEDEC_TYPE='AXIAL2_9UP';
+    VALUE='FUSE';
+  end_body;
+end_primitive;
+primitive 'PRO62B2.TMP_TLP521_48_DIP4_JC61';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Pro62B2.TMP_TLP521_48';
+    JEDEC_TYPE='DIP4';
+    VALUE='JC617';
+  end_body;
+end_primitive;
+primitive 'NPN BCE_1_TO92-NPN-EBC_1AM';
+  pin
+    'B':
+      PIN_NUMBER='(B)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(E)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='NPN BCE_1';
+    JEDEC_TYPE='TO92-NPN-EBC';
+    VALUE='1AM';
+  end_body;
+end_primitive;
+primitive 'PNP BCE_0_TO92-NPN-EBC_9015';
+  pin
+    'B':
+      PIN_NUMBER='(B)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(E)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PNP BCE_0';
+    JEDEC_TYPE='TO92-NPN-EBC';
+    VALUE='9015';
+  end_body;
+end_primitive;
+primitive 'MOSFET N_TO251AA_1N60A';
+  pin
+    'GATE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'SOURCE':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'DRAIN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MOSFET N';
+    JEDEC_TYPE='TO251AA';
+    VALUE='1N60A';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL4_5D0_8_562/1%';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL4_5D0_8';
+    VALUE='562/1%';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL4_5D0_8_0/1%';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL4_5D0_8';
+    VALUE='0/1%';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL4_5D0_8_1.5K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL4_5D0_8';
+    VALUE='1.5K';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL3D0_8UP_100K/1%';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='axial3D0_8UP';
+    VALUE='100K/1%';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL6D0_8_1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL6D0_8';
+    VALUE='1';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL4_5D0_8_1M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL4_5D0_8';
+    VALUE='1M';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_AXIAL4_5D0_8_100K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='AXIAL4_5D0_8';
+    VALUE='100K';
+  end_body;
+end_primitive;
+primitive 'TRAN_ACDC-01_0_TRANSACDC02_TG-E';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TRAN_ACDC-01_0';
+    JEDEC_TYPE='TRANSACDC02';
+    VALUE='TG-EE 16,000A-4KV-H XP';
+  end_body;
+end_primitive;
+primitive 'TEST POINT_HDR_S1_7D0_9X1_TEST';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TEST POINT';
+    JEDEC_TYPE='hdr_s1_7D0_9x1';
+    VALUE='TEST POINT';
+  end_body;
+end_primitive;
+END.

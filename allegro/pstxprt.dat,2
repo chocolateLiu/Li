@@ -1,0 +1,360 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Dec-22-2017 at 13:10:47 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MINIACDCV0100';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_RAD3_5D0_8_102':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS8755@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins8755@discrete.\cap np.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins8755@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_RAD3_5D0_8_103':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS19538@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins19538@discrete.\cap np.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins19538@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_RAD200_102/1000V':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS16745@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins16745@discrete.\cap np.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins16745@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_RAD3_5D0_8_102':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS13488@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins13488@discrete.\cap np.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins13488@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR POL_ELE10B5D0_8_4.7UF':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS58@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins58@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins58@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR POL_ELE8_5B3_5D0_7_47':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS6681@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins6681@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins6681@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR POL_ELE6_5B2_5D0_7_47':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS7517@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins7517@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins7517@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_RAD7D0_8_102/1000V':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS2495@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins2495@discrete.\cap np.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins2495@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DIO300_1N4007':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5509@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5509@discrete.\diode.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5509@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DIO300_1N4007':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5551@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5551@discrete.\diode.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5551@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_DIO300_1N4007':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5663@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5663@discrete.\diode.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5663@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_DIO300_1N4007':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5689@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5689@discrete.\diode.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5689@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE_0_DIODE-B3_85D0_7_1N4148':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS10259@MINIACDCV0100.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins10259@miniacdcv0100.\diode_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins10259@miniacdcv0100.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_1_LED-B3_5AK_RED':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS7436@MINIACDCV0100.LED_1.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins7436@miniacdcv0100.\led_1.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins7436@miniacdcv0100.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_0_DIODE-B3_85D0_7_SR210':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS18523@MINIACDCV0100.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins18523@miniacdcv0100.\diode_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins18523@miniacdcv0100.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE_0_DIODE-B7D0_7AK_1N4148':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS18623@MINIACDCV0100.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins18623@miniacdcv0100.\diode_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins18623@miniacdcv0100.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE_0_DIODE-B3_85D0_7_1N4148':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS19306@MINIACDCV0100.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins19306@miniacdcv0100.\diode_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins19306@miniacdcv0100.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_AXIAL2_9UP_FUSE':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS6145@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins6145@discrete.\fuse.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins6145@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC102 'PRO62B2.TMP_TLP521_48_DIP4_JC61':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS6477@ORCADLIB.PRO62B2.TMP_TLP521_48.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins6477@orcadlib.\pro62b2.tmp_tlp521_48.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins6477@orcadlib.\pro62b2.tmp_tlp521_48.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN BCE_1_TO92-NPN-EBC_1AM':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS8049@MINIACDCV0100.NPN BCE_1.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins8049@miniacdcv0100.\npn bce_1.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins8049@miniacdcv0100.\npn bce_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'PNP BCE_0_TO92-NPN-EBC_9015':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS16282@MINIACDCV0100.PNP BCE_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins16282@miniacdcv0100.\pnp bce_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins16282@miniacdcv0100.\pnp bce_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET N_TO251AA_1N60A':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS16581@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins16581@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins16581@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_AXIAL4_5D0_8_220R':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS8729@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins8729@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins8729@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_AXIAL4_5D0_8_0/1%':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS17883@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins17883@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins17883@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_AXIAL4_5D0_8_1.5K':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS9015@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins9015@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins9015@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_AXIAL3D0_8UP_100K/1%':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS8609@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins8609@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins8609@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_AXIAL4_5D0_8_1.5K':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS18448@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins18448@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins18448@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_AXIAL6D0_8_1':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS8989@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins8989@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins8989@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_AXIAL4_5D0_8_1M':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS18025@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins18025@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins18025@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_AXIAL4_5D0_8_100K':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS17932@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins17932@discrete.\resistor.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins17932@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TRAN_ACDC-01_0_TRANSACDC02_TG-E':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS9220@MINIACDCV0100.TRAN_ACDC-01_0.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins9220@miniacdcv0100.\tran_acdc-01_0.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins9220@miniacdcv0100.\tran_acdc-01_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_HDR_S1_7D0_9X1_TEST':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5164@WISELINKSCHLIB.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5164@wiselinkschlib.\test point.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5164@wiselinkschlib.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_HDR_S1_7D0_9X1_TEST':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5180@WISELINKSCHLIB.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5180@wiselinkschlib.\test point.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5180@wiselinkschlib.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST POINT_HDR_S1_7D0_9X1_TEST':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5122@WISELINKSCHLIB.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5122@wiselinkschlib.\test point.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5122@wiselinkschlib.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST POINT_HDR_S1_7D0_9X1_TEST':;
+
+SECTION_NUMBER 1
+ '@MINIACDCV0100.SCHEMATIC1(SCH_1):INS5141@WISELINKSCHLIB.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@miniacdcv0100.schematic1(sch_1):ins5141@wiselinkschlib.\test point.normal\(chips)',
+ P_PATH='@miniacdcv0100.schematic1(sch_1):page1_ins5141@wiselinkschlib.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

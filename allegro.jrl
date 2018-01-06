@@ -1,0 +1,16 @@
+\t (00:00:02) allegro 16.6-2015 S087 (v16-6-112GT) Windows 32
+\t (00:00:02)     Journal start - Sat Jan 06 21:53:12 2018
+\t (00:00:02)         Host=DESKTOP-1H319N6 User=jifeng Pid=107964 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe F:\008.newproject\000.配件\002.ACDC开关电源-12V\MiniACDC-12V-V0101.brd
+\t (00:00:02) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/008.newproject/000.配件/002.ACDC开关电源-12V/MiniACDC-12V-V0101.brd
+\i (00:00:05) trapsize 1483
+\i (00:00:05) trapsize 1456
+\i (00:00:05) trapsize 1487
+\i (00:00:05) trapsize 1500
+\i (00:00:06) trapsize 1323
+\i (00:00:06) trapsize 1323
+\i (00:00:06) etchedit 
+\i (00:03:07) exit 
+\t (00:03:07)     Journal end - Sat Jan 06 21:56:17 2018
